@@ -12,9 +12,9 @@ comments: yes
      Programer In Thunder. My interest in ML, DM, Hadoop and Spark
                       
                       
-- email:    
-  + aihuayou@gmail.com    
-- + github : https://github.com/EwardYou 
-- + Twitter：
-- + Facebook:
+- Contact Me:    
+  +aihuayou@gmail.com    
+- +github : https://github.com/EwardYou 
+- +Twitter：
+- +Facebook:
 
