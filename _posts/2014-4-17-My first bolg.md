@@ -1,8 +1,8 @@
 ---
 
 layout: post
-categories: [Lift]
-tags: [Lift]
+categories: [Life]
+tags: [Life]
 
 ---
 

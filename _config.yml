@@ -3,6 +3,6 @@ permalink: /:year/:month/:title/
 author: Eward You	
 pygments: true
 paginate: 16
-url: http://localhost:4000
+url: http://eward-yah.github.io
 baseurl: /
 encoding: utf-8
