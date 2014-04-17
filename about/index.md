@@ -9,14 +9,12 @@ comments: yes
 
 
 
-     Coder In Zhejiang University.Working on Cloud，Hadoop，ML
+     Programer In Thunder. My interest in ML, DM, Hadoop and Spark
                       
                       
-- 邮箱:  
-  + kakack@126.com  
-  + kakachen1990@gmail.com  
-- 豆瓣: [卡卡君暴起伤人](http://www.douban.com/people/kakack/)  
-- github : [戳( >﹏<。)～](https://github.com/kakack) 
-- 微博：[@kaka修炼成精](http://weibo.com/kakack) 
-
+- email:    
+  + aihuayou@gmail.com    
+- + github : https://github.com/EwardYou 
+- + Twitter：
+- + Facebook:
 
